@@ -10,4 +10,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🏆 My best projects
+
+https://github.com/Charly-32X/GearBuddy
+
+https://github.com/Charly-32X/Focus-Combat
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
